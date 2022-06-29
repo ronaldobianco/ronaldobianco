@@ -1,4 +1,4 @@
-## Hey listen! eu sou a Ronaldo Bianco, i make some codes and drink beer.
+## Hey listen! Im Ronaldo Bianco, i make some codes and drink beer.
 <div align="center">
   <a href="https://github.com/ronaldobianco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldobianco&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
